@@ -1,0 +1,1 @@
+default_app_config = 'user_locator_cass.api.apps.ApiAppConfig'
